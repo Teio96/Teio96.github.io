@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>温馨提示🚶‍➡️----------------------------🚶‍➡️</title>
+    <title>温馨提示🚶‍➡️----🚶‍➡️</title>
     <url>/2025/02/01/Attention/</url>
     <content><![CDATA[<style>
     p,h1,h2,h3,h4,h5{
@@ -11,8 +11,13 @@
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>请尽可能用电脑进行浏览，否则可能出现部分显示问题！</strong></p>
-<span id="more"></span>]]></content>
+<p><strong>1.请尽可能用电脑进行浏览，否则可能出现部分显示问题！</strong><br>
+<strong>2.本站课程分类依据为23级电气工程及其自动化专业培养方案！</strong><br>
+<strong>3.个人能力有限，部分内容难免有疏忽或错误，如发现欢迎在评论区指正！</strong><br>
+<strong>4.建站后所有内容都采用Markdown渲染到网页的方式，同时一块内容更新完毕后会在文末附上Markdown本地直接渲染出的pdf，便于下载和传输！</strong><br>
+<strong>5.建站前的移植内容为了方便考虑直接从语雀中导出pdf上传！</strong>
+<span id="more"></span></p>
+]]></content>
   </entry>
   <entry>
     <title>😙人工智能与物联网</title>
@@ -25,14 +30,210 @@
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong> <br></p>
-<span id="more"></span>
+<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong>
+<br> <span id="more"></span></p>
 ]]></content>
       <categories>
         <category>专业必修课程</category>
       </categories>
       <tags>
         <tag>大二夏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😆工程电磁场与波</title>
+    <url>/2025/01/31/%E5%B7%A5%E7%A3%81/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25春夏；孟萃；周二6,7+周四1,2(单)/周二6,7,8(双)；西1-501/西1-407；</strong></p>
+<p> 
+再次吐槽一下单双周排课导致课表变得非常零散很难排课...在选课阶段还出现了一个有趣的小插曲。</p>
+<p> 
+众所周知在孟老师来浙大之前工磁的授课老师主要有lyl、ysy和xsm，至于风评如何大家可以自行査老师，在此就不作过多赘述...一开始我预置的是孟萃老师，但是由于不敢赌新老师如何所以决定退课选lyl——当时我的想法是只要我在别的位置都用一些课占满，这样由于工磁是专业课最后只能给我分配lyl了。结果由于调查不充分，退完课才发现lyl和xsm是同一个时间段，结果自然是喜提xsm（哭了...）</p>
+<p> 
+在第二轮选课时lyl的余量已经满了，于是我只能回来选mc，但是孟老师也只剩下两个余量（选的大概有十几个？我也不太记得了，总之挺难进的）。在选课结果出来后我惊讶地发现自己居然选上了，问了问一个和自己选课情况差不多的高中同学发现他也选上了，于是就开始怀疑到底有没有筛完，到最后发现那<strong>两个幸运儿恰好就是我和我的高中同学</strong>...（bushi）
+<span id="more"></span></p>
+<h2 id="课程列表更新中">课程列表（更新中）</h2>
+<ul>
+<li><a href="/工磁/第一章.电磁场的数学物理基础/">Chapter1.电磁场的数学物理基础</a></li>
+<li><a href="/工磁/第二章.静电场/">Chapter2.静电场</a></li>
+<li><a href="/工磁/第三章.恒定电流的电磁场/">Chapter3.恒定电流的电磁场</a></li>
+<li><a href="/工磁/第四章.基本理论与准静态电磁场/">Chapter4.基本理论与准静态电磁场</a></li>
+<li><a href="/工磁/第五章.电磁辐射与电磁波/">Chapter5.电磁辐射与电磁波</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>专业必修课程</category>
+      </categories>
+      <tags>
+        <tag>大二春夏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>👋🏻Markdown复习</title>
+    <url>/2025/02/01/Markdown%E5%A4%8D%E4%B9%A0/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li,table{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p> 
+Markdown以及适配的一些html语言之前是学过的，但是为了更好地适应网站的需求打算复习一遍。同时，在把语雀导出为md文件时发现了以前从未见过的用法（甚至可以实现折叠块等功能），也希望能够更系统地进行学习。
+<span id="more"></span></p>
+<h3 id="一.markdown基本语法"><strong>一.Markdown基本语法</strong></h3>
+<h4 id="标题">1.标题</h4>
+<ul>
+<li>用<strong>井号#来表示标题级数</strong>，最高支持六级标题</li>
+<li>通常个人习惯从三级标题开始使用，如本栏目的“Markdown基本语法”几个字的大小就是三级标题</li>
+</ul>
+<h4 id="引用">2.引用</h4>
+<ul>
+<li>引用用一个大于符号&gt;来表示，可以实现阴影效果</li>
+</ul>
+<h4 id="列表">3.列表</h4>
+<ul>
+<li>有序列表直接用“阿拉伯数字+.”来表示，如“1.”——个人觉得不好看</li>
+<li>无序列表表示方法很多，个人习惯是用一个<strong>减号</strong>（星号也可以），即“-”（本文使用无序列表）</li>
+<li>任务列表
+<ul>
+<li>采用“- [ ] ”的形式，如果是已经完成的可以在里面加一个X</li>
+<li><u>减号与方括号之间以及方括号内部都有一个空格</u>，用得不多</li>
+</ul></li>
+<li>字体修改：<strong>style中需要添加“ul”（无序列表）和“li”（有序列表）关键字来修改默认字体（下面的html会提到）</strong></li>
+</ul>
+<h4 id="代码块">4.代码块</h4>
+<ul>
+<li>使用三个键盘左上角的飘号来表示代码块，即“```” <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//这是一个代码块，相比于引用块来说，只要修改所有内容前面的缩进就可以方便地实现整体缩进</span><br><span class="line">//而且在网页中支持整体的Copy操作！加分！</span><br><span class="line">#include&lt;stdio.h&gt;</span><br><span class="line">int main(){</span><br><span class="line">    printf("hello!");</span><br><span class="line">    </span><br><span class="line">    return 0;</span><br><span class="line">}</span><br><span class="line">//可以看到代码部分字体还是比较好看的</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h4 id="latex数学公式">5.Latex数学公式</h4>
+<ul>
+<li>使用美元符即可，同Latex，如有需要自行b站搜索latex教程</li>
+<li>行内用一对美元符，段落用两对美元符</li>
+</ul>
+<h4 id="表格">6.表格</h4>
+<ul>
+<li>第一排输入表头，用竖杠分开</li>
+<li>第二行，在对应格子里至少敲一个“-”
+<ul>
+<li>如果是左对齐，在左边加冒号，即“|:---|”</li>
+<li>如果是右对齐，在右边加冒号，即“---:|”</li>
+<li>如果是居中，两边都加，即“|:---:|”</li>
+</ul></li>
+<li>style关键字：<strong>table</strong></li>
+<li>下面是一个表格的实际样子以及对应的源代码：</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">第一列</th>
+<th style="text-align: center;">第二列</th>
+<th style="text-align: right;">第三列</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">1</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: right;">3</td>
+</tr>
+</tbody>
+</table>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- 源代码示例： --&gt;</span><br><span class="line">|第一列|第二列|第三列|</span><br><span class="line">|:---|:---:|---:| &lt;!-- 分别对应左对齐，居中对齐和右对齐 --&gt;</span><br><span class="line">|1|2|3|</span><br></pre></td></tr></table></figure>
+<h4 id="脚注">7.脚注</h4>
+<ul>
+<li>采取这样的格式：“[^脚注内容]”</li>
+<li>实际效果：这是一个脚注 <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></li>
+<li>在全文末尾对其进行解释，可参考如下代码块： <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-“你在哪里上学？”</span><br><span class="line">-“我在三墩镇职业技术学院[^三墩镇职业技术学院]上学”</span><br><span class="line">...（其他内容）</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">[^三墩镇职业技术学院]：指浙江大学</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h4 id="分割线">8.分割线</h4>
+<ul>
+<li>直接输入“---”即可</li>
+</ul>
+<h4 id="文本内部处理">9.文本内部处理</h4>
+<ul>
+<li>有部分其实是HTML语言，在这里为了统一就放在这个部分</li>
+<li>常用的文本处理命令：
+<ul>
+<li>**文本内容**：<strong>加粗</strong></li>
+<li>*文本内容*：<em>斜体</em></li>
+<li>&lt;u&gt;文本内容&lt;/u&gt;：<u>下划线</u></li>
+<li>==文本内容==： ==高亮==</li>
+<li>`文本内容`：<code>行内代码</code></li>
+<li>&lt;center&gt;&lt;/center&gt;:居中</li>
+<li>:emoji名: ：产生emoji
+<ul>
+<li>直接复制粘贴emoji也是可以的，感觉更方便</li>
+<li>emoji大全百度一搜就有</li>
+</ul></li>
+</ul></li>
+</ul>
+<h4 id="插入图片">10.插入图片</h4>
+<ul>
+<li>参考<a href="#3url">URL部分内容</a></li>
+</ul>
+<h3 id="二.html功能"><strong>二.HTML功能</strong></h3>
+<h4 id="超链接">1.超链接</h4>
+<ul>
+<li>采取“[超链接名](链接 "提示语")”的格式</li>
+<li>链接可以是网页链接，也可以是本地文件路径（前者要添加http或者https协议，否则会被读取为一个本地文件路径）</li>
+<li>达到的效果以及源代码如下：<a href="https://www.baidu.com" title="百度一下，你就知道！">百度</a> <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[百度](https://www.baidu.com "百度一下，你就知道！")</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h4 id="文本内链接">2.文本内链接</h4>
+<ul>
+<li>采取“[链接名](#文本内标题名)”的格式</li>
+<li>达到的效果以及源代码如下：请参考<a href="#一markdown基本语法">标题1</a> <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">请参考[标题1](#一markdown基本语法)</span><br><span class="line">&lt;!-- 注意，这里井号后面的内容一定要和标题名一样。直接敲一个井号，编译器会自动弹出可选的链接，直接选择即可！--&gt;</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h4 id="url">3.URL</h4>
+<ul>
+<li>略，知道可以识别url即可</li>
+<li>如果要上传图片可以把图片先传到图床，之后直接粘贴图片的url地址即可
+<ul>
+<li>个人用的图床链接：https://imgse.com/</li>
+<li>图片处理</li>
+</ul></li>
+</ul>
+<h3 id="三.字体处理"><strong>三.字体处理</strong></h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是全局字体处理的代码，主要是方便自己复制粘贴（bushi）</span><br><span class="line">&lt;style&gt;</span><br><span class="line">    p,h1,h2,h3,h4,h5,ul,li,table{</span><br><span class="line">        font-family: "宋体", serif;</span><br><span class="line">    }</span><br><span class="line">    .katex {</span><br><span class="line">        font-size: 18px; /* 根据需要调整字体大小 */</span><br><span class="line">    }</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>关键字
+<ul>
+<li>p：表示正文</li>
+<li>h1：表示一级标题</li>
+<li>ul：表示无序列表</li>
+<li>li：表示有序列表</li>
+<li>table：表示表格</li>
+<li>.katex：设置latex公式字幕大小</li>
+</ul></li>
+<li>font可设置元素
+<ul>
+<li>family：字体</li>
+<li>width：宽度，可修改图片大小，默认宽高比是不变的</li>
+<li>color：颜色，可以改字体颜色</li>
+<li>...</li>
+</ul></li>
+</ul>
+<hr>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>需要在文章末尾进行解释<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+]]></content>
+      <categories>
+        <category>CS</category>
+      </categories>
+      <tags>
+        <tag>课外</tag>
       </tags>
   </entry>
   <entry>
@@ -46,8 +247,9 @@
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：25春；孙晖；周二9,10+周四7,8,9；西1-506；</strong><br></p>
-<span id="more"></span>]]></content>
+<p><strong>基本信息：25春；孙晖；周二9,10+周四7,8,9；西1-506；</strong><br>
+<span id="more"></span></p>
+]]></content>
       <categories>
         <category>专业必修课程</category>
       </categories>
@@ -67,19 +269,30 @@
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：24秋；杨勋年；周一1,2+周四1,2；西2-201；</strong><br><br>&emsp; 整体感觉是学的和考的不是一个难度…这是我第一门基本上一节课都没听纯自学的课，感觉效果还是不错的，再加上yxn从来不点名更给自习选手带来了极大的灵活度（bushi），最后也是拿满了~ <del>值得注意的是yxn会有一次小测，可以去98找一找以前的小测卷，基本上90%的题目都是重合的…</del><br>&emsp; 主要内容就分为基础部分（前三章）、级数、留数、保角映射和拉普拉斯变换，个人觉得保角映射是最难的，因为一开始学可能会不知道怎么做题，不过稍微做些题也就理解了，整体也算还好！<br>&emsp; 针对考试而言，历年题一定一定要做，因为这是第一门我在完整复习完之后做历年题还是有点懵逼的数学课，可以说是越做越没自信…不过至少做了好几套历年题之后考试还是比较有底的，难的几个题应该都是做对了，可能最后证明题有一点伪证。</p>
+<p><strong>基本信息：24秋；杨勋年；周一1,2+周四1,2；西2-201；</strong><br></p>
+<p> 
+整体感觉是学的和考的不是一个难度...这是我第一门基本上一节课都没听纯自学的课，感觉效果还是不错的，再加上yxn从来不点名更给自习选手带来了极大的灵活度（bushi），最后也是拿满了!值得注意的是yxn会有一次小测，可以去98找一找以前的小测卷，基本上90%的题目都是重合的!</p>
+<p> 
+主要内容就分为基础部分（前三章）、级数、留数、保角映射和拉普拉斯变换，个人觉得保角映射是最难的，因为一开始学可能会不知道怎么做题，不过稍微做些题也就理解了，整体也算还好！</p>
+<p> 
+针对考试而言，历年题一定一定要做，因为这是第一门我在完整复习完之后做历年题还是有点懵逼的数学课，可以说是越做越没自信...不过至少做了好几套历年题之后考试还是比较有底的，难的几个题应该都是做对了，可能最后证明题有一点伪证。</p>
 <span id="more"></span>
-<center><a href="https://imgse.com/i/pEZmDPJ"><img src="https://s21.ax1x.com/2025/02/01/pEZmDPJ.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/01/pEZmDPJ.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEZmDPJ.jpg" border="0" width=400/></a></center>
-
-<h2 id="课程列表（更新完毕）"><a href="#课程列表（更新完毕）" class="headerlink" title="课程列表（更新完毕）"></a>课程列表（更新完毕）</h2><ul>
+<center>
+<a href="https://imgse.com/i/pEZmDPJ"><img src="https://s21.ax1x.com/2025/02/01/pEZmDPJ.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/01/pEZmDPJ.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEZmDPJ.jpg" border="0" width=400/></a>
+</center>
+<h2 id="课程列表更新完毕">课程列表（更新完毕）</h2>
+<ul>
 <li>由于在建站之前复变已经学完了，所以这里上传的是以前的语雀文档导出的pdf！以及当时对于电脑记笔记还不太熟练，所以排版不是很好看orz</li>
-<li><a href="/%E5%A4%8D%E5%8F%98/Chapter1.%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86/">Chapter1.预备知识</a></li>
-<li><a href="/%E5%A4%8D%E5%8F%98/Chapter2.%E8%A7%A3%E6%9E%90%E5%87%BD%E6%95%B0/">Chapter2.解析函数</a></li>
-<li><a href="/%E5%A4%8D%E5%8F%98/Chapter3.%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%9A%84%E7%A7%AF%E5%88%86/">Chapter3.复变函数的积分</a></li>
-<li><a href="/%E5%A4%8D%E5%8F%98/Chapter4.%E6%B3%B0%E5%8B%92%E7%BA%A7%E6%95%B0%E5%92%8C%E7%BD%97%E6%9C%97%E7%BA%A7%E6%95%B0/">Chapter4.泰勒级数和罗朗级数</a></li>
-<li><a href="/%E5%A4%8D%E5%8F%98/Chapter5.%E7%95%99%E6%95%B0/">Chapter5.留数</a></li>
-<li><a href="/%E5%A4%8D%E5%8F%98/Chapter6.%E4%BF%9D%E8%A7%92%E6%98%A0%E5%B0%84/">Chapter6.保角映射</a></li>
-<li><a href="/%E5%A4%8D%E5%8F%98/Chapter7.%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E5%8F%98%E6%8D%A2/">Chapter7.拉普拉斯变换</a></li>
+<li><a href="/复变/Chapter1.预备知识/">Chapter1.预备知识</a></li>
+<li><a href="/复变/Chapter2.解析函数/">Chapter2.解析函数</a></li>
+<li><a
+href="/复变/Chapter3.复变函数的积分/">Chapter3.复变函数的积分</a></li>
+<li><a
+href="/复变/Chapter4.泰勒级数和罗朗级数/">Chapter4.泰勒级数和罗朗级数</a></li>
+<li><a href="/复变/Chapter5.留数/">Chapter5.留数</a></li>
+<li><a href="/复变/Chapter6.保角映射/">Chapter6.保角映射</a></li>
+<li><a
+href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
 </ul>
 ]]></content>
       <categories>
@@ -87,246 +300,6 @@
       </categories>
       <tags>
         <tag>大二秋</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😆工程电磁场与波</title>
-    <url>/2025/01/31/%E5%B7%A5%E7%A3%81/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25春夏；孟萃；周二6,7+周四1,2(单)&#x2F;周二6,7,8(双)；西1-501&#x2F;西1-407；</strong> <br><br>&emsp; 再次吐槽一下单双周排课导致课表变得非常零散很难排课…在选课阶段还出现了一个有趣的小插曲。<br>&emsp; 众所周知在孟老师来浙大之前工磁的授课老师主要有lyl、ysy和xsm，至于风评如何大家可以自行査老师，在此就不作过多赘述…一开始我预置的是孟萃老师，但是由于不敢赌新老师如何所以决定退课选lyl——当时我的想法是只要我在别的位置都用一些课占满，这样由于工磁是专业课最后只能给我分配lyl了。结果由于调查不充分，退完课才发现lyl和xsm是同一个时间段，结果自然是喜提xsm（哭了…）<br>&emsp; 在第二轮选课时lyl的余量已经满了，于是我只能回来选mc，但是孟老师也只剩下两个余量（选的大概有十几个？我也不太记得了，总之挺难进的）。在选课结果出来后我惊讶地发现自己居然选上了，问了问一个和自己选课情况差不多的高中同学发现他也选上了，于是就开始怀疑到底有没有筛完，到最后发现那<strong>两个幸运儿恰好就是我和我的高中同学</strong>…（bushi）</p>
-<span id="more"></span>
-<h2 id="课程列表（更新中）"><a href="#课程列表（更新中）" class="headerlink" title="课程列表（更新中）"></a>课程列表（更新中）</h2><ul>
-<li><a href="/%E5%B7%A5%E7%A3%81/%E7%AC%AC%E4%B8%80%E7%AB%A0.%E7%94%B5%E7%A3%81%E5%9C%BA%E7%9A%84%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80/">Chapter1.电磁场的数学物理基础</a></li>
-<li><a href="/%E5%B7%A5%E7%A3%81/%E7%AC%AC%E4%BA%8C%E7%AB%A0.%E9%9D%99%E7%94%B5%E5%9C%BA/">Chapter2.静电场</a></li>
-<li><a href="/%E5%B7%A5%E7%A3%81/%E7%AC%AC%E4%B8%89%E7%AB%A0.%E6%81%92%E5%AE%9A%E7%94%B5%E6%B5%81%E7%9A%84%E7%94%B5%E7%A3%81%E5%9C%BA/">Chapter3.恒定电流的电磁场</a></li>
-<li><a href="/%E5%B7%A5%E7%A3%81/%E7%AC%AC%E5%9B%9B%E7%AB%A0.%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E4%B8%8E%E5%87%86%E9%9D%99%E6%80%81%E7%94%B5%E7%A3%81%E5%9C%BA/">Chapter4.基本理论与准静态电磁场</a></li>
-<li><a href="/%E5%B7%A5%E7%A3%81/%E7%AC%AC%E4%BA%94%E7%AB%A0.%E7%94%B5%E7%A3%81%E8%BE%90%E5%B0%84%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/">Chapter5.电磁辐射与电磁波</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>专业必修课程</category>
-      </categories>
-      <tags>
-        <tag>大二春夏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Markdown复习</title>
-    <url>/2025/02/01/Markdown%E5%A4%8D%E4%B9%A0/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li,table{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p>&emsp; Markdown以及适配的一些html语言之前是学过的，但是为了更好地适应网站的需求打算复习一遍。同时，在把语雀导出为md文件时发现了以前从未见过的用法（甚至可以实现折叠块等功能），也希望能够更系统地进行学习。<br>&emsp; <font color=red>文末附上了产生本文的Markdown源代码以及直接渲染出的pdf，供参考。</font></p>
-<span id="more"></span>
-<hr>
-<h3 id="一-Markdown基本语法"><a href="#一-Markdown基本语法" class="headerlink" title="一.Markdown基本语法"></a><strong>一.Markdown基本语法</strong></h3><h4 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h4><ul>
-<li>用<strong>井号#来表示标题级数</strong>，最高支持六级标题</li>
-<li>通常个人习惯从三级标题开始使用，如本栏目的“Markdown基本语法”几个字的大小就是三级标题</li>
-</ul>
-<h4 id="2-引用"><a href="#2-引用" class="headerlink" title="2.引用"></a>2.引用</h4><ul>
-<li>引用用一个大于符号&gt;来表示，可以实现阴影效果，如下：<blockquote>
-<p>这是一段引用，个人感觉好丑</p>
-</blockquote>
-</li>
-</ul>
-<h4 id="3-列表"><a href="#3-列表" class="headerlink" title="3.列表"></a>3.列表</h4><ul>
-<li>有序列表直接用“阿拉伯数字+.”来表示，如“1.”——个人觉得不好看</li>
-<li>无序列表表示方法很多，个人习惯是用一个<strong>减号</strong>（星号也可以），即“-”（本文使用无序列表）</li>
-<li>任务列表<ul>
-<li>采用“- [ ] ”的形式，如果是已经完成的可以在里面加一个X</li>
-<li><u>减号与方括号之间以及方括号内部都有一个空格</u>，用得不多</li>
-</ul>
-</li>
-<li>字体修改：<strong>style中需要添加“ul”（无序列表）和“li”（有序列表）关键字来修改默认字体（下面的html会提到）</strong></li>
-</ul>
-<h4 id="4-代码块"><a href="#4-代码块" class="headerlink" title="4.代码块"></a>4.代码块</h4><ul>
-<li>使用三个键盘左上角的飘号来表示代码块，即“`&#96;&#96;”  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//这是一个代码块，相比于引用块来说，只要修改所有内容前面的缩进就可以方便地实现整体缩进</span><br><span class="line">//而且在网页中支持整体的Copy操作！加分！</span><br><span class="line">#include&lt;stdio.h&gt;</span><br><span class="line">int main()&#123;</span><br><span class="line">    printf(&quot;hello!&quot;);</span><br><span class="line">    </span><br><span class="line">    return 0;</span><br><span class="line">&#125;</span><br><span class="line">//可以看到代码部分字体还是比较好看的</span><br></pre></td></tr></table></figure></li>
-</ul>
-<h4 id="5-Latex数学公式"><a href="#5-Latex数学公式" class="headerlink" title="5.Latex数学公式"></a>5.Latex数学公式</h4><ul>
-<li>使用美元符即可，同Latex，如有需要自行b站搜索latex教程</li>
-<li>行内用一对美元符，段落用两对美元符</li>
-</ul>
-<h4 id="6-表格"><a href="#6-表格" class="headerlink" title="6.表格"></a>6.表格</h4><ul>
-<li>第一排输入表头，用竖杠分开</li>
-<li>第二行，在对应格子里至少敲一个“-”<ul>
-<li>如果是左对齐，在左边加冒号，即“|:—|”</li>
-<li>如果是右对齐，在右边加冒号，即“—:|”</li>
-<li>如果是居中，两边都加，即“|:—:|”</li>
-</ul>
-</li>
-<li>style关键字：<strong>table</strong></li>
-<li>下面是一个表格的实际样子以及对应的源代码：</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th align="left">第一列</th>
-<th align="center">第二列</th>
-<th align="right">第三列</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">1</td>
-<td align="center">2</td>
-<td align="right">3</td>
-</tr>
-</tbody></table>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- 源代码示例： --&gt;</span><br><span class="line">|第一列|第二列|第三列|</span><br><span class="line">|:---|:---:|---:| &lt;!-- 分别对应左对齐，居中对齐和右对齐 --&gt;</span><br><span class="line">|1|2|3|</span><br></pre></td></tr></table></figure>
-<h4 id="7-脚注"><a href="#7-脚注" class="headerlink" title="7.脚注"></a>7.脚注</h4><ul>
-<li>采取这样的格式：“[^脚注内容]”</li>
-<li>实际效果：这是一个脚注 <a href="%E9%9C%80%E8%A6%81%E5%9C%A8%E6%96%87%E7%AB%A0%E6%9C%AB%E5%B0%BE%E8%BF%9B%E8%A1%8C%E8%A7%A3%E9%87%8A">^脚注</a><ul>
-<li><font color=red>网页中显示好像有问题？这是为啥？</font></li>
-</ul>
-</li>
-<li>在全文末尾对其进行解释，可参考如下代码块：</li>
-</ul>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-“你在哪里上学？”</span><br><span class="line">-“我在三墩镇职业技术学院[^三墩镇职业技术学院]上学”</span><br><span class="line">...（其他内容）</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">[^三墩镇职业技术学院]：指浙江大学</span><br></pre></td></tr></table></figure>
-<h4 id="8-分割线"><a href="#8-分割线" class="headerlink" title="8.分割线"></a>8.分割线</h4><ul>
-<li>直接输入“—”即可</li>
-</ul>
-<h4 id="9-文本内部处理"><a href="#9-文本内部处理" class="headerlink" title="9.文本内部处理"></a>9.文本内部处理</h4><ul>
-<li>有部分其实是HTML语言，在这里为了统一就放在这个部分</li>
-<li>常用的文本处理命令：<ul>
-<li>**文本内容**：<strong>加粗</strong></li>
-<li>*文本内容*：<em>斜体</em></li>
-<li>&lt;u&gt;文本内容&lt;&#x2F;u&gt;：<u>下划线</u></li>
-<li>==文本内容==：&#x3D;&#x3D;高亮&#x3D;&#x3D;</li>
-<li>`文本内容`：<code>行内代码</code></li>
-<li>&lt;\center&gt;&lt;/center&gt;:居中</li>
-<li>:emoji名: ：产生emoji :smile:<ul>
-<li>直接复制粘贴emoji也是可以的，感觉更方便</li>
-<li>emoji大全百度一搜就有</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h4 id="10-插入图片"><a href="#10-插入图片" class="headerlink" title="10.插入图片"></a>10.插入图片</h4><ul>
-<li>参考<a href="#3url">URL部分内容</a></li>
-</ul>
-<h3 id="二-HTML功能"><a href="#二-HTML功能" class="headerlink" title="二.HTML功能"></a><strong>二.HTML功能</strong></h3><h4 id="1-超链接"><a href="#1-超链接" class="headerlink" title="1.超链接"></a>1.超链接</h4><ul>
-<li>采取“[超链接名](链接 &quot;提示语&quot;)”的格式</li>
-<li>链接可以是网页链接，也可以是本地文件路径（前者要添加http或者https协议，否则会被读取为一个本地文件路径）</li>
-<li>达到的效果以及源代码如下：<a href="https://www.baidu.com/" title="百度一下，你就知道！">百度</a></li>
-</ul>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[百度](https://www.baidu.com &quot;百度一下，你就知道！&quot;)</span><br></pre></td></tr></table></figure>
-<h4 id="2-文本内链接"><a href="#2-文本内链接" class="headerlink" title="2.文本内链接"></a>2.文本内链接</h4><ul>
-<li>采取“[链接名](#文本内标题名)”的格式</li>
-<li>达到的效果以及源代码如下：请参考<a href="#%E4%B8%80markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95">标题1</a></li>
-</ul>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">请参考[标题1](#一markdown基本语法)</span><br><span class="line">&lt;!-- 注意，这里井号后面的内容一定要和标题名一样。直接敲一个井号，编译器会自动弹出可选的链接，直接选择即可！--&gt;</span><br></pre></td></tr></table></figure>
-<h4 id="3-URL"><a href="#3-URL" class="headerlink" title="3.URL"></a>3.URL</h4><ul>
-<li>略，知道可以识别url即可</li>
-<li>如果要上传图片可以把图片先传到图床，之后直接粘贴图片的url地址即可<ul>
-<li>个人用的图床链接：<a href="https://imgse.com/">https://imgse.com/</a></li>
-<li>图片处理</li>
-</ul>
-</li>
-</ul>
-<h3 id="三-字体处理"><a href="#三-字体处理" class="headerlink" title="三.字体处理"></a><strong>三.字体处理</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是全局字体处理的代码，主要是方便自己复制粘贴（bushi）</span><br><span class="line">&lt;style&gt;</span><br><span class="line">    p,h1,h2,h3,h4,h5,ul,li,table&#123;</span><br><span class="line">        font-family: &quot;宋体&quot;, serif;</span><br><span class="line">    &#125;</span><br><span class="line">    .katex &#123;</span><br><span class="line">        font-size: 18px; /* 根据需要调整字体大小 */</span><br><span class="line">    &#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>
-<ul>
-<li>关键字<ul>
-<li>p：表示正文</li>
-<li>h1：表示一级标题</li>
-<li>ul：表示无序列表</li>
-<li>li：表示有序列表</li>
-<li>table：表示表格</li>
-<li>.katex：设置latex公式字幕大小</li>
-</ul>
-</li>
-<li>font可设置元素<ul>
-<li>family：字体</li>
-<li>width：宽度，可修改图片大小，默认宽高比是不变的</li>
-<li>color：颜色，可以改字体颜色</li>
-<li>…</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>这里附上源代码生成的pdf以及源代码，可供参考：</p>
-
-
-	<div class="row">
-    <embed src="/pdf1/Markdown复习.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-
-
-
-	<div class="row">
-    <embed src="/pdf1/tpt1.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>CS</category>
-      </categories>
-      <tags>
-        <tag>课外</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😧电路与电子技术二（爱班）</title>
-    <url>/2025/01/31/%E6%95%B0%E7%94%B5/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25春夏；林平；周五3,4,5；西1-502；</strong> <br><br>&emsp; 相比于冬学期被一周两次的模电支配的恐惧，一周一次的数电想必能好一点TAT</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>专业基础课程</category>
-      </categories>
-      <tags>
-        <tag>爱班</tag>
-        <tag>大二春夏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😌电网络分析（爱班）</title>
-    <url>/2025/01/30/%E7%94%B5%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25春；姚缨英；周一3,4,5；西1-509；</strong><br><br>&emsp; 有点难绷的是电网络分析貌似是爱班所有课程里唯一一门没有在教务网标注的课，导致我认识的不少非爱班的同学也选了yyy的这个班，结果自然是没选上…<br>&emsp; 回到课程本身，整体感觉难度是不高的，而且每个模块之间相对独立性比较强，所以如果一块内容没搞得很清楚，对后面的影响也不会很大。感觉更加值得吐槽的是抽象的排课，电网络课程在春学期仅凭一门课之力就占据了宝贵的7个格子，到了夏学期之后望着空荡荡的课表却没有课可以选…</p>
-<span id="more"></span>
-<h2 id="课程列表（更新中）"><a href="#课程列表（更新中）" class="headerlink" title="课程列表（更新中）"></a>课程列表（更新中）</h2><ul>
-<li><a href="/%E7%94%B5%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E5%8F%98%E6%8D%A2/">Chapter1.拉普拉斯变换</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>专业必修课程</category>
-      </categories>
-      <tags>
-        <tag>爱班</tag>
-        <tag>大二春</tag>
       </tags>
   </entry>
   <entry>
@@ -340,16 +313,26 @@
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：24春；李将云；周四3,4；东2-302；</strong> <br><br>&emsp; <del>（对这门课的记忆还是当年震古烁今的写诗哥，害得我考试前一天晚上一直在吃瓜😆😆😆）</del><br>&emsp; 这门课确实是可以速成到一个期末考80分的水平（如果你数学基础好的话），但是如果想拿高分我觉得平时还是要学的。很建议去听一下ljy老师的智云，我觉得只要上课跟着他然后课后作业好好做最后都能拿一个不错的成绩；我们这一次的期末考试可以说很难但是又不难，因为思路都很容易想到，难点在于庞大的计算量和一些代数变换技巧，可以说和ode这门课本身没什么关系…<br>&emsp; 平时跟ljy，期末复习过一遍书（最好自己拿张纸汇总一下公式）然后做几套历年卷就可以上场了，大多数人这门课如果没考好绝对不是ode没有学好或者是公式没背熟，肯定是算错或者是某一步变形没有想到，所以平常作业一定要自己好好写，锻炼计算能力！</p>
+<p><strong>基本信息：24春；李将云；周四3,4；东2-302；</strong> <br></p>
+<p> 
+（对这门课的记忆还是当年震古烁今的写诗哥，害得我考试前一天晚上一直在吃瓜😆😆😆）</p>
+<p> 
+这门课确实是可以速成到一个期末考80分的水平（如果你数学基础好的话），但是如果想拿高分我觉得平时还是要学的。很建议去听一下ljy老师的智云，我觉得只要上课跟着他然后课后作业好好做最后都能拿一个不错的成绩；我们这一次的期末考试可以说很难但是又不难，因为思路都很容易想到，难点在于庞大的计算量和一些代数变换技巧，可以说和ode这门课本身没什么关系...
+ 
+平时跟ljy，期末复习过一遍书（最好自己拿张纸汇总一下公式）然后做几套历年卷就可以上场了，大多数人这门课如果没考好绝对不是ode没有学好或者是公式没背熟，肯定是算错或者是某一步变形没有想到，所以平常作业一定要自己好好写，锻炼计算能力！</p>
 <span id="more"></span>
-<p>&emsp; 大学第一门满分满绩的课程，还是很有成就感的😝<br>&emsp; 由于内容本身难度不大，这里就放上我当时自己期末复习整理的公式汇总。</p>
-<center><a href="https://imgse.com/i/pEZm2qK"><img src="https://s21.ax1x.com/2025/02/01/pEZm2qK.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/01/pEZm2qK.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEZm2qK.jpg" border="0" width=400/></a></center>
-
+<p>  大学第一门满分满绩的课程，还是很有成就感的😝</p>
+<center>
+<a href="https://imgse.com/i/pEZm2qK"><img src="https://s21.ax1x.com/2025/02/01/pEZm2qK.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/01/pEZm2qK.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEZm2qK.jpg" border="0" width=400/></a>
+</center>
+<p> 
+由于内容本身难度不大，这里就放上我当时自己期末复习整理的公式汇总。</p>
 
 
 	<div class="row">
     <embed src="/pdf1/ode.pdf" width="100%" height="550" type="application/pdf">
 	</div>
+
 
 
 ]]></content>
@@ -358,6 +341,31 @@
       </categories>
       <tags>
         <tag>大一春</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😧电路与电子技术二（爱班）</title>
+    <url>/2025/01/31/%E6%95%B0%E7%94%B5/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25春夏；林平；周五3,4,5；西1-502；</strong>
+<br></p>
+<p> 
+相比于冬学期被一周两次的模电支配的恐惧，一周一次的数电想必能好一点TAT
+<span id="more"></span></p>
+]]></content>
+      <categories>
+        <category>专业基础课程</category>
+      </categories>
+      <tags>
+        <tag>大二春夏</tag>
+        <tag>爱班</tag>
       </tags>
   </entry>
   <entry>
@@ -371,8 +379,10 @@
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：25春；辛焕海；周一1,2+周三1,2,3,4；西2-315；</strong> <br><br>&emsp; 一周两个早八的含金量，复变罢了（bushi）…</p>
-<span id="more"></span>]]></content>
+<p><strong>基本信息：25春；辛焕海；周一1,2+周三1,2,3,4；西2-315；</strong>
+<br></p>
+<p>  一周两个早八的含金量，复变罢了（bushi）... <span id="more"></span></p>
+]]></content>
       <categories>
         <category>专业必修课程</category>
       </categories>
@@ -391,14 +401,40 @@
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：25春夏；吴建德；周四3,4,5(单)&#x2F;周四3,4(双)；西1-506；</strong> <br></p>
-<span id="more"></span>]]></content>
+<p><strong>基本信息：25春夏；吴建德；周四3,4,5(单)/周四3,4(双)；西1-506；</strong>
+<br> <span id="more"></span></p>
+]]></content>
+      <categories>
+        <category>专业必修课程</category>
+      </categories>
+      <tags>
+        <tag>大二春夏</tag>
+        <tag>爱班</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😌电网络分析（爱班）</title>
+    <url>/2025/01/30/%E7%94%B5%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25春；姚缨英；周一3,4,5；西1-509；</strong><br>  
+有点难绷的是电网络分析貌似是爱班所有课程里唯一一门没有在教务网标注的课，导致我认识的不少非爱班的同学也选了yyy的这个班，结果自然是没选上...
+ 
+回到课程本身，整体感觉难度是不高的，而且每个模块之间相对独立性比较强，所以如果一块内容没搞得很清楚，对后面的影响也不会很大。感觉更加值得吐槽的是抽象的排课，电网络课程在春学期仅凭一门课之力就占据了宝贵的7个格子，到了夏学期之后望着空荡荡的课表却没有课可以选...
+<span id="more"></span> ## 课程列表（更新中） - <a href="/电网络分析/拉普拉斯变换/">Chapter1.拉普拉斯变换</a></p>
+]]></content>
       <categories>
         <category>专业必修课程</category>
       </categories>
       <tags>
         <tag>爱班</tag>
-        <tag>大二春夏</tag>
+        <tag>大二春</tag>
       </tags>
   </entry>
 </search>
