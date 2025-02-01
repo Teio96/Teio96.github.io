@@ -20,167 +20,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>👋🏻Markdown复习</title>
-    <url>/2025/02/01/Markdown%E5%A4%8D%E4%B9%A0/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li,table{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p> 
-Markdown以及适配的一些html语言之前是学过的，但是为了更好地适应网站的需求打算复习一遍。同时，在把语雀导出为md文件时发现了以前从未见过的用法（甚至可以实现折叠块等功能），也希望能够更系统地进行学习。
-<span id="more"></span></p>
-<h3 id="一.markdown基本语法"><strong>一.Markdown基本语法</strong></h3>
-<h4 id="标题">1.标题</h4>
-<ul>
-<li>用<strong>井号#来表示标题级数</strong>，最高支持六级标题</li>
-<li>通常个人习惯从三级标题开始使用，如本栏目的“Markdown基本语法”几个字的大小就是三级标题</li>
-</ul>
-<h4 id="引用">2.引用</h4>
-<ul>
-<li>引用用一个大于符号&gt;来表示，可以实现阴影效果</li>
-</ul>
-<h4 id="列表">3.列表</h4>
-<ul>
-<li>有序列表直接用“阿拉伯数字+.”来表示，如“1.”——个人觉得不好看</li>
-<li>无序列表表示方法很多，个人习惯是用一个<strong>减号</strong>（星号也可以），即“-”（本文使用无序列表）</li>
-<li>任务列表
-<ul>
-<li>采用“- [ ] ”的形式，如果是已经完成的可以在里面加一个X</li>
-<li><u>减号与方括号之间以及方括号内部都有一个空格</u>，用得不多</li>
-</ul></li>
-<li>字体修改：<strong>style中需要添加“ul”（无序列表）和“li”（有序列表）关键字来修改默认字体（下面的html会提到）</strong></li>
-</ul>
-<h4 id="代码块">4.代码块</h4>
-<ul>
-<li>使用三个键盘左上角的飘号来表示代码块，即“```” <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//这是一个代码块，相比于引用块来说，只要修改所有内容前面的缩进就可以方便地实现整体缩进</span><br><span class="line">//而且在网页中支持整体的Copy操作！加分！</span><br><span class="line">#include&lt;stdio.h&gt;</span><br><span class="line">int main(){</span><br><span class="line">    printf("hello!");</span><br><span class="line">    </span><br><span class="line">    return 0;</span><br><span class="line">}</span><br><span class="line">//可以看到代码部分字体还是比较好看的</span><br></pre></td></tr></table></figure></li>
-</ul>
-<h4 id="latex数学公式">5.Latex数学公式</h4>
-<ul>
-<li>使用美元符即可，同Latex，如有需要自行b站搜索latex教程</li>
-<li>行内用一对美元符，段落用两对美元符</li>
-</ul>
-<h4 id="表格">6.表格</h4>
-<ul>
-<li>第一排输入表头，用竖杠分开</li>
-<li>第二行，在对应格子里至少敲一个“-”
-<ul>
-<li>如果是左对齐，在左边加冒号，即“|:---|”</li>
-<li>如果是右对齐，在右边加冒号，即“---:|”</li>
-<li>如果是居中，两边都加，即“|:---:|”</li>
-</ul></li>
-<li>style关键字：<strong>table</strong></li>
-<li>下面是一个表格的实际样子以及对应的源代码：</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th style="text-align: left;">第一列</th>
-<th style="text-align: center;">第二列</th>
-<th style="text-align: right;">第三列</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;">1</td>
-<td style="text-align: center;">2</td>
-<td style="text-align: right;">3</td>
-</tr>
-</tbody>
-</table>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- 源代码示例： --&gt;</span><br><span class="line">|第一列|第二列|第三列|</span><br><span class="line">|:---|:---:|---:| &lt;!-- 分别对应左对齐，居中对齐和右对齐 --&gt;</span><br><span class="line">|1|2|3|</span><br></pre></td></tr></table></figure>
-<h4 id="脚注">7.脚注</h4>
-<ul>
-<li>采取这样的格式：“[^脚注内容]”</li>
-<li>实际效果：这是一个脚注 <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></li>
-<li>在全文末尾对其进行解释，可参考如下代码块： <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-“你在哪里上学？”</span><br><span class="line">-“我在三墩镇职业技术学院[^三墩镇职业技术学院]上学”</span><br><span class="line">...（其他内容）</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">[^三墩镇职业技术学院]：指浙江大学</span><br></pre></td></tr></table></figure></li>
-</ul>
-<h4 id="分割线">8.分割线</h4>
-<ul>
-<li>直接输入“---”即可</li>
-</ul>
-<h4 id="文本内部处理">9.文本内部处理</h4>
-<ul>
-<li>有部分其实是HTML语言，在这里为了统一就放在这个部分</li>
-<li>常用的文本处理命令：
-<ul>
-<li>**文本内容**：<strong>加粗</strong></li>
-<li>*文本内容*：<em>斜体</em></li>
-<li>&lt;u&gt;文本内容&lt;/u&gt;：<u>下划线</u></li>
-<li>==文本内容==： ==高亮==</li>
-<li>`文本内容`：<code>行内代码</code></li>
-<li>&lt;center&gt;&lt;/center&gt;:居中</li>
-<li>:emoji名: ：产生emoji
-<ul>
-<li>直接复制粘贴emoji也是可以的，感觉更方便</li>
-<li>emoji大全百度一搜就有</li>
-</ul></li>
-</ul></li>
-</ul>
-<h4 id="插入图片">10.插入图片</h4>
-<ul>
-<li>参考<a href="#3url">URL部分内容</a></li>
-</ul>
-<h3 id="二.html功能"><strong>二.HTML功能</strong></h3>
-<h4 id="超链接">1.超链接</h4>
-<ul>
-<li>采取“[超链接名](链接 "提示语")”的格式</li>
-<li>链接可以是网页链接，也可以是本地文件路径（前者要添加http或者https协议，否则会被读取为一个本地文件路径）</li>
-<li>达到的效果以及源代码如下：<a href="https://www.baidu.com" title="百度一下，你就知道！">百度</a> <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[百度](https://www.baidu.com "百度一下，你就知道！")</span><br></pre></td></tr></table></figure></li>
-</ul>
-<h4 id="文本内链接">2.文本内链接</h4>
-<ul>
-<li>采取“[链接名](#文本内标题名)”的格式</li>
-<li>达到的效果以及源代码如下：请参考<a href="#一markdown基本语法">标题1</a> <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">请参考[标题1](#一markdown基本语法)</span><br><span class="line">&lt;!-- 注意，这里井号后面的内容一定要和标题名一样。直接敲一个井号，编译器会自动弹出可选的链接，直接选择即可！--&gt;</span><br></pre></td></tr></table></figure></li>
-</ul>
-<h4 id="url">3.URL</h4>
-<ul>
-<li>略，知道可以识别url即可</li>
-<li>如果要上传图片可以把图片先传到图床，之后直接粘贴图片的url地址即可
-<ul>
-<li>个人用的图床链接：https://imgse.com/</li>
-<li>图片处理</li>
-</ul></li>
-</ul>
-<h3 id="三.字体处理"><strong>三.字体处理</strong></h3>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是全局字体处理的代码，主要是方便自己复制粘贴（bushi）</span><br><span class="line">&lt;style&gt;</span><br><span class="line">    p,h1,h2,h3,h4,h5,ul,li,table{</span><br><span class="line">        font-family: "宋体", serif;</span><br><span class="line">    }</span><br><span class="line">    .katex {</span><br><span class="line">        font-size: 18px; /* 根据需要调整字体大小 */</span><br><span class="line">    }</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>
-<ul>
-<li>关键字
-<ul>
-<li>p：表示正文</li>
-<li>h1：表示一级标题</li>
-<li>ul：表示无序列表</li>
-<li>li：表示有序列表</li>
-<li>table：表示表格</li>
-<li>.katex：设置latex公式字幕大小</li>
-</ul></li>
-<li>font可设置元素
-<ul>
-<li>family：字体</li>
-<li>width：宽度，可修改图片大小，默认宽高比是不变的</li>
-<li>color：颜色，可以改字体颜色</li>
-<li>...</li>
-</ul></li>
-</ul>
-<hr>
-<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn1"><p>需要在文章末尾进行解释<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
-]]></content>
-      <categories>
-        <category>CS</category>
-      </categories>
-      <tags>
-        <tag>课外</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>😍复变函数与积分变换（完结）</title>
     <url>/2025/02/01/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2/</url>
     <content><![CDATA[<style>
@@ -225,6 +64,27 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       </tags>
   </entry>
   <entry>
+    <title>😙人工智能与物联网</title>
+    <url>/2025/01/31/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E7%89%A9%E8%81%94%E7%BD%91/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong>
+<br> <span id="more"></span></p>
+]]></content>
+      <categories>
+        <category>专业必修课程</category>
+      </categories>
+      <tags>
+        <tag>大二夏</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>😓信号分析与处理（爱班）</title>
     <url>/2025/01/31/%E4%BF%A1%E5%8F%B7/</url>
     <content><![CDATA[<style>
@@ -244,27 +104,6 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       <tags>
         <tag>爱班</tag>
         <tag>大二春</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😙人工智能与物联网</title>
-    <url>/2025/01/31/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E7%89%A9%E8%81%94%E7%BD%91/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong>
-<br> <span id="more"></span></p>
-]]></content>
-      <categories>
-        <category>专业必修课程</category>
-      </categories>
-      <tags>
-        <tag>大二夏</tag>
       </tags>
   </entry>
   <entry>
@@ -306,6 +145,31 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       </categories>
       <tags>
         <tag>大一春</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😧电路与电子技术二（爱班）</title>
+    <url>/2025/01/31/%E6%95%B0%E7%94%B5/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25春夏；林平；周五3,4,5；西1-502；</strong>
+<br></p>
+<p> 
+相比于冬学期被一周两次的模电支配的恐惧，一周一次的数电想必能好一点TAT
+<span id="more"></span></p>
+]]></content>
+      <categories>
+        <category>专业基础课程</category>
+      </categories>
+      <tags>
+        <tag>爱班</tag>
+        <tag>大二春夏</tag>
       </tags>
   </entry>
   <entry>
@@ -362,31 +226,6 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
         <category>专业必修课程</category>
       </categories>
       <tags>
-        <tag>大二春夏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😧电路与电子技术二（爱班）</title>
-    <url>/2025/01/31/%E6%95%B0%E7%94%B5/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25春夏；林平；周五3,4,5；西1-502；</strong>
-<br></p>
-<p> 
-相比于冬学期被一周两次的模电支配的恐惧，一周一次的数电想必能好一点TAT
-<span id="more"></span></p>
-]]></content>
-      <categories>
-        <category>专业基础课程</category>
-      </categories>
-      <tags>
-        <tag>爱班</tag>
         <tag>大二春夏</tag>
       </tags>
   </entry>
