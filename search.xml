@@ -36,13 +36,9 @@
  
 推一下个人比较喜欢的一个公众号“考研竞赛数学”，里面有很多相关的习题，如果课余时间充分的话可以跟着老师的进度做一下。最后考试前先要对课本内容进行总结（一定要总结！不要仅仅是看一遍书），最后做几套卷子练练手感就可以了！关键还是在于计算的准确度！</p>
 <span id="more"></span>
-<figure>
 <center>
-<img src="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"/>
-<figcaption>
-</figcaption>
+<a href="https://imgse.com/i/pEMg8OO"><img src="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEMg8OO.jpg" border="0" width=400/></a>
 </center>
-</figure>
 <p> 
 <del>由于当时的笔记记得有点丑就不放上来了...</del>这里附上当时自己整理的期末考试复习资料，供参考</p>
 
@@ -159,49 +155,6 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       </tags>
   </entry>
   <entry>
-    <title>😙人工智能与物联网</title>
-    <url>/2025/01/31/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E7%89%A9%E8%81%94%E7%BD%91/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong>
-<br> <span id="more"></span></p>
-]]></content>
-      <categories>
-        <category>专业必修课程</category>
-      </categories>
-      <tags>
-        <tag>大二夏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😓信号分析与处理（爱班）</title>
-    <url>/2025/01/31/%E4%BF%A1%E5%8F%B7/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25春；孙晖；周二9,10+周四7,8,9；西1-506；</strong><br>
-<span id="more"></span></p>
-]]></content>
-      <categories>
-        <category>专业必修课程</category>
-      </categories>
-      <tags>
-        <tag>爱班</tag>
-        <tag>大二春</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>😆工程电磁场与波</title>
     <url>/2025/01/31/%E5%B7%A5%E7%A3%81/</url>
     <content><![CDATA[<style>
@@ -234,6 +187,49 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       </categories>
       <tags>
         <tag>大二春夏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😙人工智能与物联网</title>
+    <url>/2025/01/31/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E7%89%A9%E8%81%94%E7%BD%91/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong>
+<br> <span id="more"></span></p>
+]]></content>
+      <categories>
+        <category>专业必修课程</category>
+      </categories>
+      <tags>
+        <tag>大二夏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😕微机原理与应用（爱班）</title>
+    <url>/2025/01/31/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25春夏；吴建德；周四3,4,5(单)/周四3,4(双)；西1-506；</strong>
+<br> <span id="more"></span></p>
+]]></content>
+      <categories>
+        <category>专业必修课程</category>
+      </categories>
+      <tags>
+        <tag>大二春夏</tag>
+        <tag>爱班</tag>
       </tags>
   </entry>
   <entry>
@@ -277,8 +273,8 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       </tags>
   </entry>
   <entry>
-    <title>😕微机原理与应用（爱班）</title>
-    <url>/2025/01/31/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
+    <title>😓信号分析与处理（爱班）</title>
+    <url>/2025/01/31/%E4%BF%A1%E5%8F%B7/</url>
     <content><![CDATA[<style>
     p,h1,h2,h3,h4,h5,ul,li{
         font-family: "宋体", serif;
@@ -287,15 +283,15 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：25春夏；吴建德；周四3,4,5(单)/周四3,4(双)；西1-506；</strong>
-<br> <span id="more"></span></p>
+<p><strong>基本信息：25春；孙晖；周二9,10+周四7,8,9；西1-506；</strong><br>
+<span id="more"></span></p>
 ]]></content>
       <categories>
         <category>专业必修课程</category>
       </categories>
       <tags>
         <tag>爱班</tag>
-        <tag>大二春夏</tag>
+        <tag>大二春</tag>
       </tags>
   </entry>
   <entry>
@@ -319,8 +315,8 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
         <category>专业基础课程</category>
       </categories>
       <tags>
-        <tag>爱班</tag>
         <tag>大二春夏</tag>
+        <tag>爱班</tag>
       </tags>
   </entry>
   <entry>
