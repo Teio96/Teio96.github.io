@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>😙人工智能与物联网</title>
+    <url>/2025/01/31/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E7%89%A9%E8%81%94%E7%BD%91/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong>
+<br> <span id="more"></span></p>
+]]></content>
+      <categories>
+        <category>专业必修课程</category>
+      </categories>
+      <tags>
+        <tag>大二夏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😓信号分析与处理（爱班）</title>
+    <url>/2025/01/31/%E4%BF%A1%E5%8F%B7/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25春；孙晖；周二9,10+周四7,8,9；西1-506；</strong><br></p>
+<p> 
+上了几节课的感觉是孙晖上课太有意思了...课程内容比较贴近数学所以适应得还算快。</p>
+<span id="more"></span>
+<h2 id="课程列表更新中">课程列表（更新中）</h2>
+<ul>
+<li><a href="/信号/一.绪论/">Chapter1.绪论</a></li>
+<li><a href="/信号/二.连续信号分析/">Chapter2.连续信号分析（更新中）</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>专业必修课程</category>
+      </categories>
+      <tags>
+        <tag>爱班</tag>
+        <tag>大二春</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>温馨提示🚶‍➡️----🚶‍➡️</title>
     <url>/2025/02/01/Attention/</url>
     <content><![CDATA[<style>
@@ -18,97 +68,6 @@
 <strong>5.建站前的移植内容为了方便考虑直接从语雀中导出pdf上传！</strong>
 <span id="more"></span></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>😇微积分（甲）Ⅱ（完结）</title>
-    <url>/2025/02/18/%E5%BE%AE%E7%94%B2%E4%BA%8C/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：24春夏；卢兴江；周一1,2+周三3,4,5；蒙民伟楼225；</strong><br></p>
-<p> 
-微甲二学起来的感觉是比微甲一简单的（可能是卢姥爷教得比较好hh），因为考试不会出现一些需要思考和构造的证明题，大多数题都是以计算为主，这感觉也是工科数学的导向，即以推导和计算为主而放轻证明。尤其是最后的重积分，如果能够把各种积分方法进行总结的话最后考试就是做六个计算题。接下来要保证的就是<strong>不要出现计算错误！</strong>期末的时候很遗憾算错了一个比较简单的大题（印象里是第二类曲线积分）导致最后没满，憾取94😒</p>
-<p> 
-推一下个人比较喜欢的一个公众号“考研竞赛数学”，里面有很多相关的习题，如果课余时间充分的话可以跟着老师的进度做一下。最后考试前先要对课本内容进行总结（一定要总结！不要仅仅是看一遍书），最后做几套卷子练练手感就可以了！关键还是在于计算的准确度！</p>
-<span id="more"></span>
-<center>
-<a href="https://imgse.com/i/pEMg8OO"><img src="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEMg8OO.jpg" border="0" width=400/></a>
-</center>
-<p> 
-<del>由于当时的笔记记得有点丑就不放上来了...</del>这里附上当时自己整理的期末考试复习资料，供参考</p>
-
-
-	<div class="row">
-    <embed src="/pdf1/微积分②总复习.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-
-]]></content>
-      <categories>
-        <category>自然科学通识类</category>
-      </categories>
-      <tags>
-        <tag>大一春夏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>🫠大学物理（甲）Ⅱ（完结）</title>
-    <url>/2025/02/02/%E5%A4%A7%E7%89%A9%E4%BA%8C/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：24秋冬；雷海；周一3,4+周三1,2；西1-415；</strong></p>
-<p> 
-由于高中以来物理都很差，所以在学一的时候对大物很恐惧，结果也就一般；但是到了二之后，发现<strong>过一遍知识点+刷课后习题并及时总结</strong>就可以拿到高分！今年的期中特别简单于是早有老师放话说期末会很难，期末果然还是有比较多的坑的，不过整体我感觉也还行，毕竟重点要出下册的题就注定了绝对难度不会高。</p>
-<p> 
-到了大物就不得不提一句：<strong>雷神伟大，无需多言！</strong>关于雷海老师大家可以自行査老师，我就不作赘述，虽然前期进度飞快且全英文PPT但是后期明显有所改善（老师应该是第一年教大物，我觉得无可厚非）；给分方面根据身边统计学来看都是不错的。雷老师班上当时基本是电气+数院的学生，感觉整体水平很高，在大物竞赛的时候据说参加的人里一半都拿奖了。</p>
-<p> 
-回顾课程本身，<strong>大物课后习题一定一定要刷！！！</strong>我当时是期中把电磁学都做了一遍，下半学期跟着进度把下册做了一遍，期末很早开始复习又基本上把所有的题目再刷了一遍，考试的时候感觉大多数题目都是课后习题出的。如果实在没有时间的话，可以对着答案把过程浏览一遍感觉也是可以的。</p>
-<span id="more"></span>
-<center>
-<a href="https://imgse.com/i/pEZdxx0"><img src="https://s21.ax1x.com/2025/02/02/pEZdxx0.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/02/pEZdxx0.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEZdxx0.jpg" border="0" width=400/></a>
-</center>
-<h2 id="资料汇总">资料汇总：</h2>
-<p> 
-由于一些原因所以很多笔记都不见了，放一些个人觉得有用的资料，供参考！</p>
-<ul>
-<li><strong><a
-href="https://www.alipan.com/s/tLh8U4soV4M">PDF版课本（第三版）</a>（提取码g47l）</strong></li>
-<li><strong><a
-href="https://www.alipan.com/s/aVwddGTaiP1">课后习题答案（文件夹里的答案印象里光学部分有一部分是缺失的，在文件夹外的那份答案里有）</a>（提取码j85c）</strong></li>
-<li><strong>历年卷：</strong>
-<ul>
-<li><a
-href="https://www.alipan.com/s/L2A761aLZjU">期末</a>（提取码x2d8）</li>
-<li><a
-href="https://www.alipan.com/s/5XxJ8k7nN2h">期中</a>（提取码66xb）</li>
-</ul></li>
-<li><strong>复习资料：参看历年卷文件夹中的“复习资料”文件夹，最好还是自己过一遍课后习题并整理；</strong></li>
-<li><strong><a
-href="https://www.yuque.com/u47557255/torkit/ag7gdmeggl2tq0rg?singleDoc#">期末考试复习资料</a></strong>
-<ul>
-<li>这里每块内容插入的都是折叠块，可以把内容折叠，自己看着问题然后回忆看看是否还有印象</li>
-</ul></li>
-<li><strong>同时非常推荐savia学长的讲义，内容很精炼：https://savia7582.github.io/Exterior/Physics/2/</strong></li>
-</ul>
-]]></content>
-      <categories>
-        <category>自然科学通识类</category>
-      </categories>
-      <tags>
-        <tag>大二秋冬</tag>
-      </tags>
   </entry>
   <entry>
     <title>😍复变函数与积分变换（完结）</title>
@@ -152,27 +111,6 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       </categories>
       <tags>
         <tag>大二秋</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😙人工智能与物联网</title>
-    <url>/2025/01/31/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E7%89%A9%E8%81%94%E7%BD%91/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25夏；陈艳姣；周一3,4+周三1,2；西1-219；</strong>
-<br> <span id="more"></span></p>
-]]></content>
-      <categories>
-        <category>专业必修课程</category>
-      </categories>
-      <tags>
-        <tag>大二夏</tag>
       </tags>
   </entry>
   <entry>
@@ -251,6 +189,59 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
       </tags>
   </entry>
   <entry>
+    <title>🫠大学物理（甲）Ⅱ（完结）</title>
+    <url>/2025/02/02/%E5%A4%A7%E7%89%A9%E4%BA%8C/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：24秋冬；雷海；周一3,4+周三1,2；西1-415；</strong></p>
+<p> 
+由于高中以来物理都很差，所以在学一的时候对大物很恐惧，结果也就一般；但是到了二之后，发现<strong>过一遍知识点+刷课后习题并及时总结</strong>就可以拿到高分！今年的期中特别简单于是早有老师放话说期末会很难，期末果然还是有比较多的坑的，不过整体我感觉也还行，毕竟重点要出下册的题就注定了绝对难度不会高。</p>
+<p> 
+到了大物就不得不提一句：<strong>雷神伟大，无需多言！</strong>关于雷海老师大家可以自行査老师，我就不作赘述，虽然前期进度飞快且全英文PPT但是后期明显有所改善（老师应该是第一年教大物，我觉得无可厚非）；给分方面根据身边统计学来看都是不错的。雷老师班上当时基本是电气+数院的学生，感觉整体水平很高，在大物竞赛的时候据说参加的人里一半都拿奖了。</p>
+<p> 
+回顾课程本身，<strong>大物课后习题一定一定要刷！！！</strong>我当时是期中把电磁学都做了一遍，下半学期跟着进度把下册做了一遍，期末很早开始复习又基本上把所有的题目再刷了一遍，考试的时候感觉大多数题目都是课后习题出的。如果实在没有时间的话，可以对着答案把过程浏览一遍感觉也是可以的。</p>
+<span id="more"></span>
+<center>
+<a href="https://imgse.com/i/pEZdxx0"><img src="https://s21.ax1x.com/2025/02/02/pEZdxx0.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/02/pEZdxx0.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEZdxx0.jpg" border="0" width=400/></a>
+</center>
+<h2 id="资料汇总">资料汇总：</h2>
+<p> 
+由于一些原因所以很多笔记都不见了，放一些个人觉得有用的资料，供参考！</p>
+<ul>
+<li><strong><a
+href="https://www.alipan.com/s/tLh8U4soV4M">PDF版课本（第三版）</a>（提取码g47l）</strong></li>
+<li><strong><a
+href="https://www.alipan.com/s/aVwddGTaiP1">课后习题答案（文件夹里的答案印象里光学部分有一部分是缺失的，在文件夹外的那份答案里有）</a>（提取码j85c）</strong></li>
+<li><strong>历年卷：</strong>
+<ul>
+<li><a
+href="https://www.alipan.com/s/L2A761aLZjU">期末</a>（提取码x2d8）</li>
+<li><a
+href="https://www.alipan.com/s/5XxJ8k7nN2h">期中</a>（提取码66xb）</li>
+</ul></li>
+<li><strong>复习资料：参看历年卷文件夹中的“复习资料”文件夹，最好还是自己过一遍课后习题并整理；</strong></li>
+<li><strong><a
+href="https://www.yuque.com/u47557255/torkit/ag7gdmeggl2tq0rg?singleDoc#">期末考试复习资料</a></strong>
+<ul>
+<li>这里每块内容插入的都是折叠块，可以把内容折叠，自己看着问题然后回忆看看是否还有印象</li>
+</ul></li>
+<li><strong>同时非常推荐savia学长的讲义，内容很精炼：https://savia7582.github.io/Exterior/Physics/2/</strong></li>
+</ul>
+]]></content>
+      <categories>
+        <category>自然科学通识类</category>
+      </categories>
+      <tags>
+        <tag>大二秋冬</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>😕微机原理与应用（爱班）</title>
     <url>/2025/01/31/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<style>
@@ -268,13 +259,13 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
         <category>专业必修课程</category>
       </categories>
       <tags>
-        <tag>大二春夏</tag>
         <tag>爱班</tag>
+        <tag>大二春夏</tag>
       </tags>
   </entry>
   <entry>
-    <title>😓信号分析与处理（爱班）</title>
-    <url>/2025/01/31/%E4%BF%A1%E5%8F%B7/</url>
+    <title>😇微积分（甲）Ⅱ（完结）</title>
+    <url>/2025/02/18/%E5%BE%AE%E7%94%B2%E4%BA%8C/</url>
     <content><![CDATA[<style>
     p,h1,h2,h3,h4,h5,ul,li{
         font-family: "宋体", serif;
@@ -283,21 +274,52 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
         font-size: 18px; /* 根据需要调整字体大小 */
     }
 </style>
-<p><strong>基本信息：25春；孙晖；周二9,10+周四7,8,9；西1-506；</strong><br></p>
+<p><strong>基本信息：24春夏；卢兴江；周一1,2+周三3,4,5；蒙民伟楼225；</strong><br></p>
 <p> 
-上了几节课的感觉是孙晖上课太有意思了...课程内容比较贴近数学所以适应得还算快。</p>
+微甲二学起来的感觉是比微甲一简单的（可能是卢姥爷教得比较好hh），因为考试不会出现一些需要思考和构造的证明题，大多数题都是以计算为主，这感觉也是工科数学的导向，即以推导和计算为主而放轻证明。尤其是最后的重积分，如果能够把各种积分方法进行总结的话最后考试就是做六个计算题。接下来要保证的就是<strong>不要出现计算错误！</strong>期末的时候很遗憾算错了一个比较简单的大题（印象里是第二类曲线积分）导致最后没满，憾取94😒</p>
+<p> 
+推一下个人比较喜欢的一个公众号“考研竞赛数学”，里面有很多相关的习题，如果课余时间充分的话可以跟着老师的进度做一下。最后考试前先要对课本内容进行总结（一定要总结！不要仅仅是看一遍书），最后做几套卷子练练手感就可以了！关键还是在于计算的准确度！</p>
 <span id="more"></span>
-<h2 id="课程列表更新中">课程列表（更新中）</h2>
-<ul>
-<li><a href="/信号/一.绪论/">Chapter1.绪论</a></li>
-<li><a href="/信号/二.连续信号分析/">Chapter2.连续信号分析（更新中）</a></li>
-</ul>
+<center>
+<a href="https://imgse.com/i/pEMg8OO"><img src="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" class="lazyload" data-srcset="https://s21.ax1x.com/2025/02/18/pEMg8OO.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pEMg8OO.jpg" border="0" width=400/></a>
+</center>
+<p> 
+<del>由于当时的笔记记得有点丑就不放上来了...</del>这里附上当时自己整理的期末考试复习资料，供参考</p>
+
+
+	<div class="row">
+    <embed src="/pdf1/微积分②总复习.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+]]></content>
+      <categories>
+        <category>自然科学通识类</category>
+      </categories>
+      <tags>
+        <tag>大一春夏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>😑计算方法</title>
+    <url>/2025/01/31/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<style>
+    p,h1,h2,h3,h4,h5,ul,li{
+        font-family: "宋体", serif;
+    }
+    .katex {
+        font-size: 18px; /* 根据需要调整字体大小 */
+    }
+</style>
+<p><strong>基本信息：25春；辛焕海；周一1,2+周三1,2,3,4；西2-315；</strong>
+<br></p>
+<p>  一周两个早八的含金量，复变罢了（bushi）... <span id="more"></span></p>
 ]]></content>
       <categories>
         <category>专业必修课程</category>
       </categories>
       <tags>
-        <tag>爱班</tag>
         <tag>大二春</tag>
       </tags>
   </entry>
@@ -322,30 +344,8 @@ href="/复变/Chapter7.拉普拉斯变换/">Chapter7.拉普拉斯变换</a></li>
         <category>专业基础课程</category>
       </categories>
       <tags>
-        <tag>大二春夏</tag>
         <tag>爱班</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>😑计算方法</title>
-    <url>/2025/01/31/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/</url>
-    <content><![CDATA[<style>
-    p,h1,h2,h3,h4,h5,ul,li{
-        font-family: "宋体", serif;
-    }
-    .katex {
-        font-size: 18px; /* 根据需要调整字体大小 */
-    }
-</style>
-<p><strong>基本信息：25春；辛焕海；周一1,2+周三1,2,3,4；西2-315；</strong>
-<br></p>
-<p>  一周两个早八的含金量，复变罢了（bushi）... <span id="more"></span></p>
-]]></content>
-      <categories>
-        <category>专业必修课程</category>
-      </categories>
-      <tags>
-        <tag>大二春</tag>
+        <tag>大二春夏</tag>
       </tags>
   </entry>
   <entry>
